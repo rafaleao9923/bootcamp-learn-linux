@@ -1,0 +1,26 @@
+
+Hi ChatGPT! 👋 I'm diving into Linux virtual machine. 
+Which virtual machine runs Ubuntu the best and most stable?
+
+Hi ChatGPT! 👋 I'm diving into VirtualBox. 
+Regarding the 2 VirtualBox Cons, currently I don't need to use a high-performance server, 
+but I want to install VirtualBox on Ubuntu, then install Ubuntu on VirtualBox, will Ubuntu 
+run well or should I install VirtualBox on Windows and then install Ubuntu on it?
+
+I don't understand this:
+sudo VBoxManage extpack install --replace <extension-pack-filename>
+Can you suggest some extension-pack-filenames that people often use?
+
+    VBoxManage list extpacks    ->  6.1.48  :   https://download.virtualbox.org/virtualbox/6.1.48/
+    sudo VBoxManage extpack install --replace Oracle_VM_VirtualBox_Extension_Pack-6.1.48.vbox-extpack
+
+Hi ChatGPT! 👋 I'm diving into ubuntu on VirtualBox. 
+How to install ubuntu on virtualbox using iso file?
+Let's compare kvm and virtualBox? Which one should I use on Ubuntu?
+
+Hi ChatGPT! 👋 I'm diving into Linux | Ubuntu. 
+Everything about Terminals, Consoles, Shells and Commands
+Everything about root vs. non-Privileged Users. Getting root Access (sudo, su, passwd)
+
+Hi ChatGPT! 👋 I'm diving into Linux | Ubuntu. 
+How to run Commands Without Leaving a Trace
