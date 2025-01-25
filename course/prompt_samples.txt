@@ -24,3 +24,33 @@ Everything about root vs. non-Privileged Users. Getting root Access (sudo, su, p
 
 Hi ChatGPT! 👋 I'm diving into Linux | Ubuntu. 
 How to run Commands Without Leaving a Trace
+
+----------------------------------------------------------
+
+So to write a markdown file that fully covers the outline in the image above, what would you write?
+
+----------------------------------------------------------
+
+Analyze the image provided and generate a detailed markdown file that comprehensively captures its content. Ensure the markdown file includes:
+
+1. **Structure**: Follow the outline or hierarchy presented in the image (e.g., headings, subheadings, bullet points, numbered lists).
+2. **Content**: Accurately describe all textual and visual elements in the image, including any diagrams, charts, or annotations.
+3. **Formatting**: Use appropriate markdown syntax for headings, lists, code blocks, tables, and other elements to match the image's layout.
+4. **Clarity**: Ensure the generated content is clear, concise, and easy to understand, maintaining the intent and details of the original image.
+
+Provide the complete markdown file as the output.
+
+----------------------------------------------------------
+
+Help me solve all challenges inner above files
+
+----------------------------------------------------------
+
+Analyze the files provided and assist in resolving all challenges identified within them. Ensure the following:
+
+1. **Problem Identification**: Clearly outline the specific challenges present in the files, such as bugs, inefficiencies, or design flaws.
+2. **Solution Proposal**: Provide detailed, actionable solutions for each challenge, including code snippets, refactoring suggestions, or best practices.
+3. **Implementation Guidance**: Offer step-by-step instructions or examples on how to implement the proposed solutions effectively.
+4. **Optimization**: Suggest improvements to enhance performance, readability, and maintainability of the codebase.
+
+Address each challenge systematically and provide a comprehensive resolution plan.
